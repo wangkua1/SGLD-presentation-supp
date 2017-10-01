@@ -1,0 +1,3 @@
+# SGLD-presentation-supp
+to be finished.... 
+to be added: the original GIFs used in the presentation, and possibly the code used for generating these
